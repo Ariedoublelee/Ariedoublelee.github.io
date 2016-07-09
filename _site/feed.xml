@@ -8,19 +8,19 @@
     <atom:link href="http://ariedoublelee.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>搭建一个 blog 需要哪些技术？</title>
+        <title>搭建一個 blog 需要哪些技術？</title>
         <description>&lt;h2 id=&quot;section&quot;&gt;基础&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;html&lt;/li&gt;
   &lt;li&gt;css&lt;/li&gt;
   &lt;li&gt;javascript&lt;/li&gt;
-  &lt;li&gt;编辑器的使用：sublime、vim&lt;/li&gt;
+  &lt;li&gt;編輯器的使用：sublime、vim&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;section-1&quot;&gt;网站&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;域名注册&lt;/li&gt;
-  &lt;li&gt;dns原理、修改&lt;/li&gt;
+  &lt;li&gt;域名註冊&lt;/li&gt;
+  &lt;li&gt;dns 原理、修改&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;github&quot;&gt;github&lt;/h2&gt;
@@ -29,8 +29,8 @@
   &lt;li&gt;CNAME&lt;/li&gt;
   &lt;li&gt;git 基本命令&lt;/li&gt;
   &lt;li&gt;jeykll&lt;/li&gt;
-  &lt;li&gt;ruby 一点&lt;/li&gt;
-  &lt;li&gt;gem 一点&lt;/li&gt;
+  &lt;li&gt;ruby 一點&lt;/li&gt;
+  &lt;li&gt;gem 一點&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 09 Jul 2016 17:13:00 +0800</pubDate>
