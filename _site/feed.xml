@@ -8,6 +8,17 @@
     <atom:link href="http://muan.co/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>interest day</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;日记&lt;/h1&gt;
+&lt;p&gt;## 吵架了
+## 超级冷&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 May 2013 04:38:50 +0800</pubDate>
+        <link>http://muan.co/2013/05/06/interest-day/</link>
+        <guid isPermaLink="true">http://muan.co/2013/05/06/interest-day/</guid>
+      </item>
+    
+      <item>
         <title>Scribble</title>
         <description>&lt;p&gt;I have been busy building &lt;a href=&quot;http://www.zeczec.com&quot;&gt;zeczec&lt;/a&gt;. This version was shipped 2 weeks ago, and I guess I’d never really be happy with it.&lt;/p&gt;
 
