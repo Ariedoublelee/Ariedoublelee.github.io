@@ -8,8 +8,53 @@
     <atom:link href="http://ariedoublelee.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>測試一下鵝鵝鵝</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;標題&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;内文内文内文内文&lt;/li&gt;
+  &lt;li&gt;内文内文内文内文&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;内文内文内文内文内文&lt;/p&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;標題&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;内文内文内文内文&lt;/li&gt;
+  &lt;li&gt;内文内文内文内文&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;内文内文内文内文内文&lt;/p&gt;
+
+&lt;p&gt;内文内文内文内文内文&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;標題&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;内文内文内文内文&lt;/li&gt;
+  &lt;li&gt;内文内文内文内文&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;内文内文内文内文内文&lt;/p&gt;
+
+&lt;p&gt;内文内文内文内文内文&lt;/p&gt;
+
+&lt;h4 id=&quot;section-3&quot;&gt;標題&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;内文内文内文内文&lt;/li&gt;
+  &lt;li&gt;内文内文内文内文&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;内文内文内文内文内文&lt;/p&gt;
+
+&lt;p&gt;内文内文内文内文内文&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jul 2016 17:13:00 +0800</pubDate>
+        <link>http://ariedoublelee.com/2016/07/09/test/</link>
+        <guid isPermaLink="true">http://ariedoublelee.com/2016/07/09/test/</guid>
+      </item>
+    
+      <item>
         <title>搭建一個 blog 需要哪些技術？</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;基础&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;section&quot;&gt;基礎&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;html&lt;/li&gt;
   &lt;li&gt;css&lt;/li&gt;
@@ -17,7 +62,7 @@
   &lt;li&gt;編輯器的使用：sublime、vim&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;网站&lt;/h2&gt;
+&lt;h2 id=&quot;section-1&quot;&gt;網站&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;域名註冊&lt;/li&gt;
   &lt;li&gt;dns 原理、修改&lt;/li&gt;
