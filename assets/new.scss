@@ -5,7 +5,8 @@ body {
   padding: 0;
   margin: 0;
   line-height: 1.8em;
-  font-family: 'Cutive Mono', "YuMincho", "Helvetica Neue", Helvetica, "Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei","微软雅黑",Arial,simsun,sans-serif;
+  font-family: 'Cutive Mono', "YuMincho", monospace;
+  /* font-family: 'Cutive Mono', PingFangSC-Ultralight, "Microsoft YaHei", sans-serif; */
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
@@ -15,8 +16,11 @@ code {
   font-family: 'Cutive Mono', "YuMincho", monospace;
 }
 
+h2 {
+	font-weight: normal;
+}
+
 h3, .name {
-  font-family: "Halant";
   font-weight: normal;
 }
 
