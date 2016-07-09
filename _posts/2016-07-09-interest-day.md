@@ -1,13 +1,23 @@
 ---
 layout: post
-title: 硬脆斯汀的一天
+title: 搭建一个 blog 需要哪些技术？
 date: 2016-07-09 09:13:00
 ---
 
-# 日记
-test
+## 基础
+* html
+* css
+* javascript
+* 编辑器的使用：sublime、vim
 
-## 吵架了好生气！！！
-test
+## 网站
+* 域名注册
+* dns原理、修改
 
-![image](/images/fight.jpg)
+## github
+* github 基本使用
+* CNAME
+* git 基本命令
+* jeykll
+* ruby 一点
+* gem 一点
