@@ -10,4 +10,4 @@ test
 ## 吵架了好生气！！！
 test
 
-![image]("../images/fight.jpg")
+![image](../images/fight.jpg)
