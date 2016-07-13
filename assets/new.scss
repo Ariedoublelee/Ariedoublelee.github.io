@@ -7,7 +7,7 @@ body {
   line-height: 1.8em;
   font-family: 'Cutive Mono', "YuMincho", monospace;
   /* font-family: 'Cutive Mono', PingFangSC-Ultralight, "Microsoft YaHei", sans-serif; */
-  font-size: 14px;
+  font-size: 13px;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
 }
@@ -28,6 +28,15 @@ h3 {
   background: url('fun-line.png') 0 100% no-repeat;
   margin-left: -2px;
   padding-left: 2px;
+  background-size: 20px;
+  font-size: 1.1em;
+}
+
+h4 {
+  background: url('test.jpg') 0 50% no-repeat;
+  margin-top: 0px;
+  margin-left: -2px;
+  padding-left: 20px;
   background-size: 20px;
   font-size: 1.1em;
 }
