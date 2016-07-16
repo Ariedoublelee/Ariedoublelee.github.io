@@ -29,16 +29,18 @@ h3 {
   margin-left: -2px;
   padding-left: 2px;
   background-size: 20px;
-  font-size: 1.1em;
+  font-size: 1.0em;
 }
 
 h4 {
-  background: url('test.jpg') 0 50% no-repeat;
-  margin-top: 0px;
   margin-left: -2px;
-  padding-left: 20px;
-  background-size: 20px;
-  font-size: 1.1em;
+  padding-left: 2px;
+  font-size: 1.0em;
+
+  i {
+    padding-right: 5px;
+    /* color: #E6E6E6; */
+  }
 }
 
 p {
