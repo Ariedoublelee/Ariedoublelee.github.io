@@ -17,10 +17,17 @@ $(document).on("ready pjax:end", function () {
   _gaq.push(['_trackPageview']); 
 })
 
-$(function(){
+/* $(function(){
 	$('h4').each(function(i, e){
 		var html = $(e).html();
 		$(e).html("<i class='fa fa-instagram' aria-hidden='true'></i>" + html);
+	});
+});*/
+
+$(function(){
+	$('h4').each(function(i, e){
+		var html = $(e).html();
+		$(e).html("📷 " + html);
 	});
 });
 
