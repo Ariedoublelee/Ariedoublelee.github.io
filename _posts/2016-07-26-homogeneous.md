@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 同類
+title: 同類 homogeneous
 date: 2016-07-26 09:00:00
 ---
 
