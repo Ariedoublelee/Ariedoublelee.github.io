@@ -4,7 +4,7 @@ title: 同類 homogeneous
 date: 2016-07-26 05:00:00
 ---
 
-![image](/images/201607/homogeneous1.jpg)
+![image](/images/201607/homogeneous-me.jpg)
 
 我也試著去了解 為了什麼這世界
 
