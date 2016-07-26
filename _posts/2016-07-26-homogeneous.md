@@ -4,7 +4,7 @@ title: 同類 homogeneous
 date: 2016-07-26 05:00:00
 ---
 
-![image](/images/201607/homogeneous.jpg)
+![image](/images/201607/homogeneous1.jpg)
 
 我也試著去了解 為了什麼這世界
 
@@ -50,4 +50,4 @@ date: 2016-07-26 05:00:00
 
 我也不懂 我錯得對不對
 
-![image](/images/201607/homogeneous1.jpg)
+![image](/images/201607/homogeneous2.jpg)
