@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 同類 homogeneous
-date: 2016-07-26 09:00:00
+date: 2016-07-26 05:00:00
 ---
 
 ![image](/images/201607/homogeneous.jpg)
